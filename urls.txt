@@ -1,0 +1,34 @@
+//Flutter Session login and keep logged in
+https://www.youtube.com/watch?v=W2WeZaqNB2o&t=203s
+
+
+//#4 PHP api with jwt || Login User api || php api with jsonwebtoken
+https://www.youtube.com/watch?v=5pI8DUAz6yA
+
+
+//How to Switch between screens using Navigation Bar in Flutter
+https://www.youtube.com/watch?v=m_u6XuYo0xk
+
+//Flutter Keep BottomNavigationBar When Push to New Screen with Navigator Lecture 14
+https://www.youtube.com/watch?v=C5i75je9E4Y
+
+
+//How To Connect Flutter Project in Firebase Hindi & Urdu Lecture 30
+https://www.youtube.com/watch?v=u1XI1mQ4eww&list=PLC6P77cg6e2j1VoZL_8L7nnK7gh9C0a1V&index=42
+
+//Flutter Finance App with Beautiful UI
+https://flutterawesome.com/flutter-finance-app-with-beautiful-ui/
+https://github.com/lalitkumawat1m/Flutter_finance_app_ui?ref=flutterawesome.com
+
+
+//Todo App using Rest API | CRUD App | Flutter English Tutorial
+https://www.youtube.com/watch?v=Wsor0fci3Ss
+
+
+//Flutter: GridView with API, Animation, Navigator
+https://www.youtube.com/watch?v=ypxKQykhmO0
+
+
+//Noteslist flutter app
+https://github.com/boriszv/Programming-Addict-Code-Examples/blob/master/flutter_rest_api/part%204/notes/lib/views/note_list.dart
+
